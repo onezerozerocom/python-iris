@@ -2,7 +2,7 @@
 
 붓꽃(iris) 데이터로 **데이터 읽기 → 특성 분석 → 결측치 처리 → 이상치 처리 → 정규화**를 차례로 익히는 인터랙티브 학습지입니다. 학생은 코드의 빈칸을 채우고 **▶ 실행**을 눌러 결과를 확인한 뒤, 연습문제로 결과를 해석합니다. (교과서 65–74쪽)
 
-원본: [Data-Analysis_IRIS](https://onezerozerocom.github.io/Data-Analysis_IRIS/)의 내용을 새 디자인으로 다시 만든 버전입니다.
+원본: [python-iris](https://onezerozerocom.github.io/python-iris/)의 내용을 새 디자인으로 다시 만든 버전입니다.
 
 ## 파일 구성
 
